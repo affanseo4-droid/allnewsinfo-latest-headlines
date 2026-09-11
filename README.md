@@ -1,8 +1,10 @@
-# All News Info — Latest Headlines Fetcher
+# All News Info — Latest Content Fetcher
 
-A tiny Python script that fetches the latest news headlines from All News Info and prints them to your terminal.
+A tiny Python script that fetches the latest informational content and updates from All News Info and prints them to your terminal.
 
 Website: https://allnewsinfo.co.uk/
+
+All News Info shares informational content and updates across a range of topics, kept current for readers looking for reliable information.
 
 ## Usage
 
@@ -13,7 +15,7 @@ python fetch_headlines.py
 
 ## What it does
 
-Sends a request to https://allnewsinfo.co.uk/, parses the homepage for the latest article titles and links, and prints a clean list of current headlines.
+Sends a request to https://allnewsinfo.co.uk/, parses the homepage for the latest article titles and links, and prints a clean list of current content updates.
 
 ## License
 
